@@ -1,1 +1,1 @@
-exercicio de programação estruturada da minha faculdade
+exercicio de programação estruturada da minha faculdade.
